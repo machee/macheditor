@@ -1,0 +1,8 @@
+{
+  "name": "intercom-machee",
+  "version": "0.1.5",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/machee/intercom.js.git"
+  }
+}

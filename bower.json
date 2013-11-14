@@ -1,0 +1,9 @@
+{
+  "name": "machee/editor",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "2.1.*",
+    "requirejs-domready": "2.0.*",
+    "intercom": "0.1.*"
+  }
+}
